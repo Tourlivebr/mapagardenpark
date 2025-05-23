@@ -15,7 +15,7 @@ const geistMono = localFont({
 
 export const metadata: Metadata = {
   title: "Mapa Garden Park Gramado",
-  description: "Mapa interativo com guia falante",
+  description: "Mapa interativo com guia falante 2025",
 };
 
 export default function RootLayout({
