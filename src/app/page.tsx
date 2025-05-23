@@ -7,5 +7,5 @@ export default function Home() {
     window.location.href = "/cartao/gardenpark"; // Muda para o slug desejado
   }, []);
 
-  return <p>Buscando as melhores atrações para você...</p>;
+  return <p>Siga seu caminho...</p>;
 }
