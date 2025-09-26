@@ -7,5 +7,5 @@ export default function Home() {
     window.location.href = "/cartao/gp_popup"; // Muda para o slug desejado
   }, []);
 
-  return <p>Siga seu caminho...</p>;
+  return <p>Siga seu caminho....</p>;
 }
